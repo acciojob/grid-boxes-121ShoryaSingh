@@ -3,7 +3,7 @@
 	background-color: white;
 	display: grid;
 	grid-template-columns: 120px 150px 150px 150px;
-    grid-template-rows: 124px, 124px, 124px, 124px, 124px;
+    grid-template-rows: 124px 124px 124px 124px 124px;
 	gap: 3px;
 	width: 600px;
 	height: 400px;
